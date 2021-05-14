@@ -1,4 +1,4 @@
-# Text Analytics Projects
+# Selected Text Analytics Projects
 
 #### Refer to the following links to view the ipynb notebooks if you have trouble viewing them on Github.
 
