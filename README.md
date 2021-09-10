@@ -13,8 +13,6 @@ YouTube Scrapper: https://nbviewer.jupyter.org/github/AddChew/TextAnalytics/blob
 ## Sentiment Analysis
 Folder contains the scripts for fine tuning an ELECTRA model for sentiment classification. <br>
 
-Link to model demo page: https://share.streamlit.io/addchew/sentimentanalysis/main/SingleReviewApp.py
-
 ## Topic Modelling
 Folder contains the scripts for text feature extraction using SingBERT encoder and clustering using HDBSCAN clustering algorithm.
 
